@@ -1,6 +1,11 @@
 # made-from-scratch-neural-game
 A test for my made-from-scratch neural network on a simple game to avoid collisions.
 
+Here's a video of the trained game playing:
+
+https://drive.google.com/file/d/0B3bdUhe_RxfqckV4UWJjRmt0Wk0/view?usp=sharing
+
+
 This project is from two years ago, when I started experimenting with Neural Networks and I had the crazy idea to try and implement one from scratch. It's not trained with backpropagation but with genetic algorithms. This particular script does not train the network, but just shows what I got after a few minutes of training on a simple game that I made while I was in High school.
 
 To run the script you only need Pygame installed, if you don't have it just use pip:
